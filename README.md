@@ -1,5 +1,9 @@
 # Portfolio
-* 4 main projects *
+*4 main projects:*
+* 1:
+* 2:
+* 3:
+* 4:
 
 ![alt text](nunzio-guerrera--0d49gX9XIY-unsplash.jpg)
 
