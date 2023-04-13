@@ -1,4 +1,4 @@
-# Portfolio
+# Davide Sabeddu's Portfolio
 *4 main projects:*
 * 1: [Python] **Visualization and Statistics** Pima Diabetes Analysis
 * 2: [Python] **Classification and Hypothesis Testing** Hotel Booking Cancellation Prediction
