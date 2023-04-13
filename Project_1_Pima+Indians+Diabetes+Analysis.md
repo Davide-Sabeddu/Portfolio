@@ -1,4 +1,4 @@
-# Foundations of Data Science Project - Diabetes Analysis
+# Visualization and Statistics - Diabetes Analysis
 
 ---------------
 ## Context
