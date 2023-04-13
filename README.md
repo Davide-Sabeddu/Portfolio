@@ -1,5 +1,5 @@
 # Work in Progress
-![alt text](image_0.jpeg)
+![alt text](image_0.jpg)
 Hi! I am Davide Sabeddu, class 95 and born in Italy.
 
 # Projects 
