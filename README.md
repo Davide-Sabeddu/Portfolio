@@ -3,7 +3,7 @@
 * 1: [Python] **Visualization and Statistics** Pima Diabetes Analysis
 * 2: [Python] **Classification and Hypothesis Testing** Hotel Booking Cancellation Prediction
 * 3: [Python] **Recommendation Systems** Amazon Product Reviews
-* 4: [Matlab] **Master's Thesis** Sources of Variability for Acoustic and Thermal Impacts of
+* 4: [Matlab] **Master's Thesis** Acoustic and Thermal Impacts of
 Transcranial Ultrasonic Neuromodulation in Humans
 
 ![alt text](nunzio-guerrera--0d49gX9XIY-unsplash.jpg)
