@@ -11,5 +11,6 @@ Hi! I am Davide Sabeddu, class 95 and born in Italy. During my studies I have de
 * 3: [Python] **Recommendation Systems** [Movie Recommendation System](Project_3_Movie+Recommendation.md)
 * 4: [Matlab] **Master's Thesis** Acoustic and Thermal Impacts of
 Transcranial Ultrasonic Neuromodulation in Humans
+* 5: [Python] **Hackathon Project**
 
 ![alt text](image_1.jpg)
