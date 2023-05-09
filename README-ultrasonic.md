@@ -8,7 +8,7 @@ The orca-lab folder project/ultrasonic contains the main function and main loop 
 The function runs a k-wave acoustic and thermal simulation in CPP interactive mode and water+skull setup. This to avoid extra walltime once it is performed into the ultrasonic_loop.m. As inputs it takes delta_y and delta_z to add to the geometric focus y and z coordinates, while x coordinate is computed as transducer_x_coordinate = geometric_focus_x_coordinate + focal length.
 It returns the max peak pressure map, Isppa map, and thermal map. 
 
-[ultrasonic.m](ultrasonic.m)
+DOWNLOAD [ultrasonic.m](ultrasonic.m)
 
 ## ultrasonic_loop.m
 
@@ -20,4 +20,4 @@ In the terminal on the directory where the file is located, the ultrasonic_loop.
 
 The output data is saved in the same folder where the ultrasonic_loop.m is located. The output data is ultrasonic_output.mat and it can be loaded on the workspace in Matlab. 
 
-[ultrasonic_loop.m](ultrasonic_loop.m)
+DOWNLOAD [ultrasonic_loop.m](ultrasonic_loop.m)
