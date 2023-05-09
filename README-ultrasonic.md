@@ -12,7 +12,7 @@ The loop allows to use the function ultrasonic.m in multiple simulations, saving
 
 The code contains also a mask, because sometimes the output values range is too wide to be visualized well on a plot. Then, it is possible to mask the mean and standard deviation maps from a certain value, in order to have a figure of the values of interest and/or regions of interest.
 
-In the terminal on the directory where the file is located, the ultrasonic_loop.m runs with the use of the command 'matlab_sub ultrasonic_loop.m'. The time and memory limits can be added to the command (https://dccn-hpc-wiki.readthedocs.io/en/latest/docs/cluster_howto/exercise_matlab/exercise.html) or chosen by default.
+In the terminal on the directory where the file is located, the ultrasonic_loop.m runs with the use of the command 'matlab_sub ultrasonic_loop.m'. The time and memory limits can be added to the command or chosen by default.
 
 The output data is saved in the same folder where the ultrasonic_loop.m is located. The output data is ultrasonic_output.mat and it can be loaded on the workspace in Matlab. 
 
