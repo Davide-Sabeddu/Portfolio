@@ -1,13 +1,10 @@
-# README: ultrasonic
-
-The orca-lab folder project/ultrasonic contains the main function and main loop for searching the optimal set of transducer bowl center coordinates with respect to the max peak pressure, Isppa, and thermal rise maps.
-
 ## ultrasonic.m
 
 The function runs a k-wave acoustic and thermal simulation in CPP interactive mode and water+skull setup. This to avoid extra walltime once it is performed into the ultrasonic_loop.m. As inputs it takes delta_y and delta_z to add to the geometric focus y and z coordinates, while x coordinate is computed as transducer_x_coordinate = geometric_focus_x_coordinate + focal length.
 It returns the max peak pressure map, Isppa map, and thermal map. 
 
 DOWNLOAD [ultrasonic.m](ultrasonic.m)
+[Simulation Medium Parameters](Simulation_Medium_Parameters.pdf)
 
 ## ultrasonic_loop.m
 
