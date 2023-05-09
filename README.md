@@ -9,8 +9,7 @@ Hi! I am Davide Sabeddu, class 95 and born in Italy. During my studies I have de
 * 1: [Python] **Visualization and Statistics** [Pima Diabetes Analysis](Project_1_Pima+Indians+Diabetes+Analysis.md)
 * 2: [Python] **Classification and Hypothesis Testing** [Hotel Booking Cancellation Prediction](Project_2_Hotel+Booking+Cancellation+Prediction.md)
 * 3: [Python] **Recommendation Systems** [Movie Recommendation System](Project_3_Movie+Recommendation.md)
-* 4: [Matlab] **Master's Thesis** [Acoustic and Thermal Impacts of
-Transcranial Ultrasonic Neuromodulation in Humans](ultrasonic.md)
+* 4: [Matlab] **Master's Thesis** [Acoustic/Thermal Impacts of Transcranial Ultrasonic Neuromodulation in Humans](Project_4_Ultrasonic.md)
 * 5: [Python] **Hackathon Project** Shinkansen Bullet Train
 
 ![alt text](image_1.jpg)
