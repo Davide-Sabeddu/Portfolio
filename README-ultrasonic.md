@@ -1,5 +1,4 @@
 # README: ultrasonic
-*version: 20-01-2021*
 
 The orca-lab folder project/ultrasonic contains the main function and main loop for searching the optimal set of transducer bowl center coordinates with respect to the max peak pressure, Isppa, and thermal rise maps.
 
