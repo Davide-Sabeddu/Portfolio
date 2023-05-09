@@ -4,7 +4,7 @@ The function runs a k-wave acoustic and thermal simulation in CPP interactive mo
 It returns the max peak pressure map, Isppa map, and thermal map. 
 
 DOWNLOAD [ultrasonic.m](ultrasonic.m)
-[Simulation Medium Parameters](Simulation_Medium_Parameters.pdf)
+PARAMETERS [Simulation Medium Parameters](Simulation_Medium_Parameters.pdf)
 
 ## ultrasonic_loop.m
 
