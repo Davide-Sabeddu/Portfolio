@@ -1,7 +1,9 @@
 # Work in Progress
 ![alt text](image_0.jpg) [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-sabeddu/)
 
-Hi! I am Davide Sabeddu, class 95 and born in Italy. During my studies I have developed a mindset for critical thinking, problem-solving and quick adaptability to new technologies and approaches from different disciplines. I am currently in pursuit of my first career opportunity as a junior data scientist and as a research assistant with a keen interest in the field of BCI/Neurotechnology. Here my Python projects I completed during my program in Data Science and Machine Learning [2023] and my MATLAB code I wrote for my Master's thesis and internship [2022].
+Hi! I am Davide Sabeddu, class 95 and born in Italy. During my studies I have developed a mindset for critical thinking, problem-solving and quick adaptability to new technologies and approaches from different disciplines. I am currently working as a functional analyst for the local government of my home island. Nevertheless, I am looking for
+opportunities as research assistant and PhD vacancies with a keen interest in the field of Brain-Computer Interface (BCI) /
+neuroprostetics and ultrasonic stimulation. Here my Python projects I completed during my program in Data Science and Machine Learning [2023] and my MATLAB code I wrote for my Master's thesis and internship [2022].
 
 
 # Projects 
