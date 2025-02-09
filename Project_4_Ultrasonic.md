@@ -17,3 +17,10 @@ In the terminal on the directory where the file is located, the ultrasonic_loop.
 The output data is saved in the same folder where the ultrasonic_loop.m is located. The output data is ultrasonic_output.mat and it can be loaded on the workspace in Matlab. 
 
 DOWNLOAD [ultrasonic_loop.m](ultrasonic_loop.m)
+
+References
+
+1. B. E. Treeby and B. T. Cox, "k-Wave: MATLAB toolbox for the simulation and reconstruction of photoacoustic wave-fields," J. Biomed. Opt., vol. 15, no. 2, p. 021314, 2010.
+
+2. B. E. Treeby, J. Jaros, D. Rohrbach, and B. T. Cox, "Modelling elastic wave propagation using the k-Wave MATLAB toolbox," IEEE International Ultrasonics Symposium, pp. 146-149, 2014.
+
