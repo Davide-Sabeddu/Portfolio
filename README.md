@@ -25,7 +25,7 @@ If you’re looking for someone who’s motivated, coachable, technically solid 
 - Web Analyst role in Italy managing Agile development teams and supporting public sector clients
 
 # 
-On this GitHub you’ll find:
+On this GitHub page you canfind:
 - **Python projects** from my Data Science and Machine Learning program [2023]
 - **MATLAB code** from my Master’s thesis and research internship [2022]
 
@@ -34,6 +34,6 @@ On this GitHub you’ll find:
 * 1: [Python] **Visualization and Statistics** [Pima Diabetes Analysis](Project_1_Pima+Indians+Diabetes+Analysis.md)
 * 2: [Python] **Classification and Hypothesis Testing** [Hotel Booking Cancellation Prediction](Project_2_Hotel+Booking+Cancellation+Prediction.md)
 * 3: [Python] **Recommendation Systems** [Movie Recommendation System](Project_3_Movie+Recommendation.md)
-* 4: [Matlab] **Master's Thesis** [Acoustic/Thermal Impacts of Transcranial Ultrasonic Neuromodulation in Humans](Project_4_Ultrasonic.md)
+* 4: [MATLAB] **Master's Thesis** [Acoustic/Thermal Impacts of Transcranial Ultrasonic Neuromodulation in Humans](Project_4_Ultrasonic.md)
 
 ![alt text](image_1.jpg)
