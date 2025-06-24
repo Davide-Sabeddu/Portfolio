@@ -12,6 +12,8 @@ What drives me the most is finding solutions to interdisciplinary problems that 
 
 Rather than confining myself to a specialized area in the beginning of my career, I'm excited to learn how different fields come together and complement each other in solving problems that are multilateral in nature. I'm looking for a role where one grows by being exposed to myriad challenges and where the collective wisdom of the group sharpens everybody's capability.
 
+If you’re looking for someone who’s motivated, coachable, technically solid and not afraid of challenges, let’s connect!
+
 # Technical background
 - **Bachelor's in Physics** (Sapienza University of Rome)
 - **Master’s in Cognitive Neuroscience** (Radboud University)  
@@ -22,11 +24,10 @@ Rather than confining myself to a specialized area in the beginning of my career
 - Research Internship in **ultrasonic brain stimulation** and **acoustic waves simulation** in a **neuromodulation lab** working with a cross-functional team at the Donders Institute for Brain, Cognition and Behavior
 - Web Analyst role in Italy managing Agile development teams and supporting public sector clients
 
+# 
 On this GitHub you’ll find:
 - **Python projects** from my Data Science and Machine Learning program [2023]
 - **MATLAB code** from my Master’s thesis and research internship [2022]
-
-If you’re looking for someone who’s motivated, coachable, technically solid and not afraid of challenges, let’s connect!
 
 # Projects
 
