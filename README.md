@@ -1,16 +1,14 @@
 # Welcome!
 ![alt text](image_0.jpg) [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-sabeddu/)
 
-Hi! Thank you for visiting my page!
+Hello! Thanks for checking out my page!
 
-I’m **Davide Sabeddu**, born in 1995 and originally from Italy.  
-I’m a critical thinker and problem-solver with a strong academic background in **Neuroscience** and **Physics**. I bring energy, curiosity and persistence to every challenge, and I don’t rest until I’ve figured it out.  
+I'm Davide Sabeddu, born in 1995 and from Italy originally.
+I'm a critical thinker and problem-solver with a strong academic background in Physics and Neuroscience. I tackle every problem with enthusiasm, interest and determination, and I don't let go until I've cracked it.
 
-I'm eager to begin my career in an environment where constant growth and effective contribution go hand in hand. I'm drawn to high-performance teams with a focus on mentorship and collaboration, where I can learn from seasoned employees while contributing in terms of new ideas on modern issues.
-What drives me the most is finding solutions to interdisciplinary problems that have a tangible impact on people. I thrive in team settings with emotionally intelligent teammates who understand the greatest outcomes result from different minds contributing their effort to a common mission of service.
-Rather than confining myself to a specialized area in the beginning of my career, I'm excited to learn how different fields come together and complement each other in solving problems that are multilateral in nature. I'm looking for a role where one grows by being exposed to myriad challenges and where the collective wisdom of the group sharpens everybody's capability.
+I'm looking forward to launching my career in an environment where real development and valuable contribution intersect. I am drawn to teams that are focused on mentorship and collaboration, where I would be able to learn from senior staff members while contributing through the provision of new insights into current problems. What drives me most is the solution of interdisciplinary problems. I thrive in team settings with emotionally intelligent colleagues who understand that the most fruitful outcomes are the product of diverse minds working together toward the common goal of service. I am excited to explore the ways in which different fields inform and complement each other in solving issues that are multilateral in nature. I'm looking for a role where one grows by being exposed to a myriad of problems and where the collective wisdom of the group sharpens everyone's skill. 
 
-If you’re looking for someone who’s motivated, coachable, technically solid and not afraid of challenges, let’s connect!
+If you're looking for someone who's motivated, with a positive aptitude, coachable, technically proficient and not afraid of problems, let's discuss!
 
 # Technical background
 - **Bachelor's in Physics** (Sapienza University of Rome)
