@@ -3,7 +3,7 @@
 
 Hello! Thanks for checking out my page!
 
-I'm Davide Sabeddu, PhD student at the University of Central Florida. I am a graduate research assistant at the Laboratory for Uncertainty Quantification and Inference [LUQI](https://luqigroup.github.io/), PI Prof. Ali Siahkoohi. 
+I'm Davide Sabeddu, PhD student at the University of Central Florida. I am a graduate research assistant at the Laboratory for Uncertainty Quantification and Inference [LUQI](https://luqigroup.github.io/), PI Prof. [Ali Siahkoohi](https://alisiahkoohi.github.io/). 
 
 
 born in 1995 and from Italy originally.
