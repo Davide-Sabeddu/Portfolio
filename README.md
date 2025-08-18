@@ -5,8 +5,7 @@ Hello! Thanks for checking out my page!
 
 I'm Davide Sabeddu, PhD student at the University of Central Florida. I am a graduate research assistant at the Laboratory for Uncertainty Quantification and Inference [LUQI](https://luqigroup.github.io/), PI Prof. [Ali Siahkoohi](https://alisiahkoohi.github.io/). 
 
-
-born in 1995 and from Italy originally.
+I am born in 1995 in Sardinia, Italy.
 I'm a critical thinker and problem-solver with a strong academic background in Physics and Neuroscience. I tackle every problem with enthusiasm, interest and determination and I don't let go until I've cracked it.
 
 I am drawn to teams that are focused on mentorship and collaboration, where I would be able to learn from senior staff members while contributing through the provision of new insights into current problems. What drives me most is the solution of interdisciplinary problems. I thrive in team settings with emotionally intelligent colleagues who understand that the most fruitful outcomes are the product of diverse minds working together toward the common goal of service :blush:. I am excited to explore the ways in which different fields inform and complement each other in solving issues that are in nature multilateral. 
