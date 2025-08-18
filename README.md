@@ -3,12 +3,13 @@
 
 Hello! Thanks for checking out my page!
 
-I'm Davide Sabeddu, born in 1995 and from Italy originally.
-I'm a critical thinker and problem-solver with a strong academic background in Physics and Neuroscience. I tackle every problem with enthusiasm, interest and determination, and I don't let go until I've cracked it.
+I'm Davide Sabeddu, PhD student at the University of Central Florida. I am a graduate research assistant at the Laboratory for Uncertainty Quantification and Inference [LUQI](https://luqigroup.github.io/), PI Prof. Ali Siahkoohi. 
 
-I'm looking forward to launching my career in an environment where real development and valuable contribution intersect. I am drawn to teams that are focused on mentorship and collaboration, where I would be able to learn from senior staff members while contributing through the provision of new insights into current problems. What drives me most is the solution of interdisciplinary problems. I thrive in team settings with emotionally intelligent colleagues who understand that the most fruitful outcomes are the product of diverse minds working together toward the common goal of service. I am excited to explore the ways in which different fields inform and complement each other in solving issues that are multilateral in nature. I'm looking for a role where one grows by being exposed to a myriad of problems and where the collective wisdom of the group sharpens everyone's skill. 
 
-If you're looking for someone who's motivated, with a positive aptitude, coachable, technically proficient and not afraid of problems, let's discuss!
+born in 1995 and from Italy originally.
+I'm a critical thinker and problem-solver with a strong academic background in Physics and Neuroscience. I tackle every problem with enthusiasm, interest and determination and I don't let go until I've cracked it.
+
+I am drawn to teams that are focused on mentorship and collaboration, where I would be able to learn from senior staff members while contributing through the provision of new insights into current problems. What drives me most is the solution of interdisciplinary problems. I thrive in team settings with emotionally intelligent colleagues who understand that the most fruitful outcomes are the product of diverse minds working together toward the common goal of service :blush:. I am excited to explore the ways in which different fields inform and complement each other in solving issues that are in nature multilateral. 
 
 # Technical background
 - **Bachelor's in Physics** (Sapienza University of Rome)
