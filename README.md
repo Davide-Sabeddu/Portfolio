@@ -20,6 +20,12 @@ I am drawn to teams that are focused on mentorship and collaboration, where I wo
 - Research Internship in **ultrasonic brain stimulation** and **acoustic waves simulation** in a **neuromodulation lab** working with a cross-functional team at the Donders Institute for Brain, Cognition and Behavior
 - Web Analyst role in Italy managing Agile development teams and supporting public sector clients
 
+# Hobbies
+- Gardening
+- Hiking
+- Board games
+- Cooking
+
 On this GitHub page you can find:
 - **Python projects** from my Data Science and Machine Learning program [2023]
 - **MATLAB code** from my Master’s thesis and research internship [2022]
