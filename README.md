@@ -10,6 +10,10 @@ I'm a critical thinker and problem-solver with a strong academic background in P
 
 I am drawn to teams that are focused on mentorship and collaboration, where I would be able to learn from senior staff members while contributing through the provision of new insights into current problems. What drives me most is the solution of interdisciplinary problems. I thrive in team settings with emotionally intelligent colleagues who understand that the most fruitful outcomes are the product of diverse minds working together toward the common goal of service :blush:. I am excited to explore the ways in which different fields inform and complement each other in solving issues that are in nature multilateral. 
 
+On this GitHub page you can find:
+- **Python projects** from my Data Science and Machine Learning program [2023]
+- **MATLAB code** from my Master’s thesis and research internship [2022]
+
 # Technical background
 - **Bachelor's in Physics** (Sapienza University of Rome)
 - **Master’s in Cognitive Neuroscience** (Radboud University)   
@@ -25,10 +29,6 @@ I am drawn to teams that are focused on mentorship and collaboration, where I wo
 - Hiking
 - Board games
 - Cooking
-
-On this GitHub page you can find:
-- **Python projects** from my Data Science and Machine Learning program [2023]
-- **MATLAB code** from my Master’s thesis and research internship [2022]
 
 # Projects
 
