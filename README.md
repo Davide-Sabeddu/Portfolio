@@ -1,10 +1,5 @@
 # Welcome!
 
-<p align="right">
-  <a href="README_IT.md">🇮🇹 Italiano</a> | <a href="README.md">🇬🇧 English</a>
-</p>
-
-
 <div align="center">
 
 <img src="image_0.jpg" alt="Profile Photo" />
