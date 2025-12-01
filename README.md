@@ -1,5 +1,6 @@
 # Welcome!
 ![alt text](image_0.jpg) [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-sabeddu/)
+![Email](https://img.shields.io/badge/Email-davide.sabeddu%40ucf.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Hello! Thanks for checking out my page!
 
