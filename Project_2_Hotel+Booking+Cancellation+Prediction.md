@@ -924,7 +924,7 @@ hist_box(data, "lead_time")
 
 
     
-![png](output_33_0.png)
+![png](images/output_33_0.png)
     
 
 
@@ -943,7 +943,7 @@ hist_box(data, "avg_price_per_room")
 
 
     
-![png](output_36_0.png)
+![png](images/output_36_0.png)
     
 
 
@@ -1300,7 +1300,7 @@ plt.show()
 
 
     
-![png](output_47_0.png)
+![png](images/output_47_0.png)
     
 
 
@@ -1342,7 +1342,7 @@ plt.show()
 
 
     
-![png](output_52_0.png)
+![png](images/output_52_0.png)
     
 
 
@@ -1383,7 +1383,7 @@ plt.show()
 
 
     
-![png](output_56_0.png)
+![png](images/output_56_0.png)
     
 
 
@@ -1430,7 +1430,7 @@ plt.show()
 
 
     
-![png](output_63_0.png)
+![png](images/output_63_0.png)
     
 
 
@@ -1457,7 +1457,7 @@ plt.show()
 
 
     
-![png](output_66_0.png)
+![png](images/output_66_0.png)
     
 
 
@@ -1486,7 +1486,7 @@ stacked_barplot(data, "market_segment_type","booking_status")
 
 
     
-![png](output_71_0.png)
+![png](images/output_71_0.png)
     
 
 
@@ -1509,7 +1509,7 @@ stacked_barplot(data, "repeated_guest", "booking_status")
 
 
     
-![png](output_74_0.png)
+![png](images/output_74_0.png)
     
 
 
@@ -1529,7 +1529,7 @@ stacked_barplot(stay_data, "total_days", "booking_status",figsize=(15,6))
 
 
     
-![png](output_77_0.png)
+![png](images/output_77_0.png)
     
 
 
@@ -1546,7 +1546,7 @@ plt.show()
 
 
     
-![png](output_80_0.png)
+![png](images/output_80_0.png)
     
 
 
@@ -1691,7 +1691,7 @@ metrics_score(y_train, y_pred_train)
 
 
     
-![png](output_96_1.png)
+![png](images/output_96_1.png)
     
 
 
@@ -1724,7 +1724,7 @@ metrics_score(y_test, y_pred_test)
 
 
     
-![png](output_99_1.png)
+![png](images/output_99_1.png)
     
 
 
@@ -1761,7 +1761,7 @@ plt.show()
 
 
     
-![png](output_102_0.png)
+![png](images/output_102_0.png)
     
 
 
@@ -1800,7 +1800,7 @@ metrics_score(y_train, y_pred_train[:,1]>optimal_threshold)
 
 
     
-![png](output_106_1.png)
+![png](images/output_106_1.png)
     
 
 
@@ -1832,7 +1832,7 @@ metrics_score(y_test, y_pred_test[:,1]>optimal_threshold)
 
 
     
-![png](output_109_1.png)
+![png](images/output_109_1.png)
     
 
 
@@ -1894,7 +1894,7 @@ metrics_score(y_train, y_pred_train_svm)
 
 
     
-![png](output_119_1.png)
+![png](images/output_119_1.png)
     
 
 
@@ -1926,7 +1926,7 @@ metrics_score(y_test, y_pred_test_svm)
 
 
     
-![png](output_122_1.png)
+![png](images/output_122_1.png)
     
 
 
@@ -1959,7 +1959,7 @@ plt.show()
 
 
     
-![png](output_125_0.png)
+![png](images/output_125_0.png)
     
 
 
@@ -1996,7 +1996,7 @@ metrics_score(y_train, y_pred_train_svm[:,1]>optimal_threshold_svm)
 
 
     
-![png](output_129_1.png)
+![png](images/output_129_1.png)
     
 
 
@@ -2026,7 +2026,7 @@ metrics_score(y_test, y_pred_test[:,1]>optimal_threshold_svm)
 
 
     
-![png](output_131_1.png)
+![png](images/output_131_1.png)
     
 
 
@@ -2079,7 +2079,7 @@ metrics_score(y_train, y_pred_train_svm)
 
 
     
-![png](output_136_1.png)
+![png](images/output_136_1.png)
     
 
 
@@ -2112,7 +2112,7 @@ metrics_score(y_test, y_pred_test)
 
 
     
-![png](output_139_1.png)
+![png](images/output_139_1.png)
     
 
 
@@ -2140,7 +2140,7 @@ plt.show()
 
 
     
-![png](output_141_0.png)
+![png](images/output_141_0.png)
     
 
 
@@ -2172,7 +2172,7 @@ metrics_score(y_train, y_pred_train_svm[:,1]>optimal_threshold_svm)
 
 
     
-![png](output_144_1.png)
+![png](images/output_144_1.png)
     
 
 
@@ -2202,7 +2202,7 @@ metrics_score(y_test, y_pred_test[:,1]>optimal_threshold_svm)
 
 
     
-![png](output_146_1.png)
+![png](images/output_146_1.png)
     
 
 
@@ -2256,7 +2256,7 @@ metrics_score(y_train, pred_train_dt)
 
 
     
-![png](output_152_1.png)
+![png](images/output_152_1.png)
     
 
 
@@ -2287,7 +2287,7 @@ metrics_score(y_test, pred_test_dt)
 
 
     
-![png](output_155_1.png)
+![png](images/output_155_1.png)
     
 
 
@@ -2360,7 +2360,7 @@ metrics_score(y_train, dt_tuned)
 
 
     
-![png](output_162_1.png)
+![png](images/output_162_1.png)
     
 
 
@@ -2392,7 +2392,7 @@ metrics_score(y_test, y_pred_tuned)
 
 
     
-![png](output_164_1.png)
+![png](images/output_164_1.png)
     
 
 
@@ -2427,7 +2427,7 @@ plt.show()
 
 
     
-![png](output_167_0.png)
+![png](images/output_167_0.png)
     
 
 
@@ -2452,7 +2452,7 @@ plt.show()
 
 
     
-![png](output_169_0.png)
+![png](images/output_169_0.png)
     
 
 
@@ -2508,7 +2508,7 @@ metrics_score(y_train, y_pred_train_rf)
 
 
     
-![png](output_176_1.png)
+![png](images/output_176_1.png)
     
 
 
@@ -2539,7 +2539,7 @@ metrics_score(y_test, y_pred_test_rf)
 
 
     
-![png](output_178_1.png)
+![png](images/output_178_1.png)
     
 
 
@@ -2580,7 +2580,7 @@ sns.barplot(importance_df.Importance, importance_df.index)
 
 
     
-![png](output_182_1.png)
+![png](images/output_182_1.png)
     
 
 

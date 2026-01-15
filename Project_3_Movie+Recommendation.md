@@ -331,7 +331,7 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![png](images/output_16_0.png)
     
 
 
@@ -618,7 +618,7 @@ plt.show()
 
 
     
-![png](output_30_0.png)
+![png](images/output_30_0.png)
     
 
 
@@ -700,7 +700,7 @@ plt.show()
 
 
     
-![png](output_37_0.png)
+![png](images/output_37_0.png)
     
 
 
@@ -946,7 +946,7 @@ Now that we have seen **how to apply the Rank-Based Recommendation System**, let
 
 ## **Model 2: User based Collaborative Filtering Recommendation System (7 Marks)**
 
-![collaborative_filtering.PNG](https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/collaborative_filtering.PNG)
+![collaborative_filtering.PNG](images/https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/collaborative_filtering.PNG)
 
 In the above **interactions matrix**, out of users B and C, which user is most likely to interact with the movie, "The Terminal"?
 
@@ -969,7 +969,7 @@ In this type of recommendation system, `we do not need any information` about th
 
 #### **Building Similarity/Neighborhood based Collaborative Filtering**
 
-![test_image](https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/cosine.PNG)
+![test_image](images/https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/cosine.PNG)
 
 ### **Building a baseline user-user similarity based recommendation system**
 
@@ -2047,15 +2047,15 @@ Model-based Collaborative Filtering is a **personalized recommendation system**,
 
 **Latent Features:** The features that are not present in the empirical data but can be inferred from the data. For example:
 
-![test_image](https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF3.PNG)
+![test_image](images/https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF3.PNG)
 
 Now if we notice the above movies closely:
 
-![test_image](https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF4.PNG)
+![test_image](images/https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF4.PNG)
 
 Here **Action**, **Romance**, **Suspense** and **Comedy** are latent features of the corresponding movies. Similarly, we can compute the latent features for users as shown below:
 
-![test_image](https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF5.PNG)
+![test_image](images/https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF5.PNG)
 
 
 
@@ -2065,11 +2065,11 @@ SVD is used to **compute the latent features** from the **user-item matrix**. Bu
 
 First we need to convert the below movie-rating dataset:
 
-![test_image](https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF3.PNG)
+![test_image](images/https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF3.PNG)
 
 into an user-item matrix as shown below:
 
-![test_image](https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF6.PNG)
+![test_image](images/https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF6.PNG)
 
 We have already done this above while computing cosine similarities.
 
@@ -2080,7 +2080,7 @@ We have already done this above while computing cosine similarities.
 
 #### **U-matrix**
 
-![test_image](https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF7.PNG)
+![test_image](images/https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF7.PNG)
 
 the above matrix is a n x k matrix, where:
 - n is number of users
@@ -2088,7 +2088,7 @@ the above matrix is a n x k matrix, where:
 
 #### **Sigma-matrix**
 
-![test_image](https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF8.PNG)
+![test_image](images/https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF8.PNG)
 
 the above matrix is a k x k matrix, where:
 - k is number of latent features
@@ -2096,7 +2096,7 @@ the above matrix is a k x k matrix, where:
 
 #### **V-transpose matrix**
 
-![test_image](https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF9.PNG)
+![test_image](images/https://raw.githubusercontent.com/GL-ACADOPS/RS-IMAGES/main/CF9.PNG)
 
 the above matrix is a kxn matrix, where:
 - k is the number of latent features
@@ -2629,7 +2629,7 @@ sns.displot(data=df, x='value', hue='variable', kde=True);
 
 
     
-![png](output_203_0.png)
+![png](images/output_203_0.png)
     
 
 
@@ -2649,7 +2649,7 @@ sns.displot(data=df, x='value', hue='variable', kde=True);
 
 
     
-![png](output_206_0.png)
+![png](images/output_206_0.png)
     
 
 
